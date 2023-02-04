@@ -1,0 +1,6 @@
+list = eval(input("Enter the list of integers : "))
+print("Entered integers : \n", list)
+list.sort()
+print("sorted values in ascending order:\n ", list)
+list.sort(reverse=True)
+print("sorted values in descending order: \n", list)

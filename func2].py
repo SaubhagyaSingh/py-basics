@@ -1,0 +1,11 @@
+luckyno=[4,8,15,16,23,42]
+friends=["kevin","karen","jim","oscar","toby"]
+print(friends)
+friends.insert(1,"kelly")
+print(friends)
+print(friends.index("jim"))
+random=[15,69,420,7,216]
+random.sort()
+print(random)
+random.reverse()
+print(random)
